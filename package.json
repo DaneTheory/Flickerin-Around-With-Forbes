@@ -1,7 +1,7 @@
 {
   "name": "flickerin-around-with-forbes",
   "version": "1.0.0",
-  "description": "A ReactJS app that displays phots via Flickr's API using Redux to maintain state",
+  "description": "A React/Redux app that displays photos via Flickr's API using Redux to maintain state.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dashboard -- webpack-dev-server --watch-poll --port 9111",
